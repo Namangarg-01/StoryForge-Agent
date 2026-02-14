@@ -2,6 +2,8 @@
 
 An MCP (Model Context Protocol) server that combines real-time web search with local LLM generation for content creation.
 
+![Workflow](Screenshot 2026-02-14 164823.png)
+
 ## Features
 
 - 🔍 Real-time web search using Tavily API
