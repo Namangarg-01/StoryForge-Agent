@@ -13,7 +13,7 @@ tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
 
 # Select the Model 
 MODEL_INFO = "phi3" # <-- Changed to user's specified local model
-MODEL_SCRIPT = "phi3" # <-- Changed to user's specified local model
+MODEL_SCRIPT = "gemma:2b" # <-- Changed to user's specified local model
 
 st.set_page_config(
                    page_title="StoryForge Agent",
