@@ -38,7 +38,7 @@ run.bat
 
 1. **Clone the repository**
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Namangarg-01/StoryForge-Agent
    cd content-generation-mcp
 ```
 
@@ -75,7 +75,7 @@ run.bat
 
 6. **Run the server**
 ```bash
-   python server.py
+   python mcp_tools.py
 ```
 
 ## Configuration
@@ -130,7 +130,7 @@ ollama list
 ### Project Structure
 ```
 content-generation-mcp/
-├── server.py          # Main MCP server
+├── mcp_tools.py          # Main MCP server
 ├── requirements.txt   # Python dependencies
 ├── .env              # Environment variables (not in git)
 └── README.md         # This file
