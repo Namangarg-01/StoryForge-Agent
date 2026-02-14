@@ -1,7 +1,7 @@
 import streamlit as st
 import os 
 from dotenv import load_dotenv
-import ollama  # <-- Changed: Using Ollama instead of google.genai
+import ollama  
 from tavily import TavilyClient
 import time
 
