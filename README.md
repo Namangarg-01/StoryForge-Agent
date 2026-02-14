@@ -155,6 +155,6 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- 📧 Email: your-email@example.com
+- 📧 Email: namaniiitnr@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/repo/issues)
 - 📖 Docs: [Full Documentation](https://your-docs-site.com)
